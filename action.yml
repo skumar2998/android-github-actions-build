@@ -1,6 +1,6 @@
 name: 'Android Build'
 description: 'Build Android projects'
-author: 'Veaceslav Gaidarji <veaceslav.gaidarji@gmail.com>'
+author: 'Sunil Kumar <skumar.mobiledev@gmail.com>'
 branding:
   icon: 'box'
   color: 'green'
